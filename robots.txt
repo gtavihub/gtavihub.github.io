@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gta6hub.github.io/sitemap.xml
+Sitemap: https://gtavihub.github.io/sitemap.xml
